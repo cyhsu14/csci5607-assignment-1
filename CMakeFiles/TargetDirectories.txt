@@ -1,0 +1,3 @@
+/Users/chingyu/Documents/Senior/ComputerGraphics/HW1_starter/CMakeFiles/rebuild_cache.dir
+/Users/chingyu/Documents/Senior/ComputerGraphics/HW1_starter/CMakeFiles/edit_cache.dir
+/Users/chingyu/Documents/Senior/ComputerGraphics/HW1_starter/CMakeFiles/hw1.dir

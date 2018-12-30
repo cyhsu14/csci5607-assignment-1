@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hw1.dir/src/image.cpp.o CMakeFiles/hw1.dir/src/main.cpp.o CMakeFiles/hw1.dir/src/pixel.cpp.o  -o hw1 
